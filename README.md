@@ -35,6 +35,6 @@ TouHouCharacterDataBase - All the character of TouHou Project and their infomati
 > Syameimaru Aya - 射命丸文 <br>
 > Yagokoro Eirin - 八意永琳 <br>
 > Yakumo Yukari - 八雲 紫 <br>
-> Yasaka Kanako - 八坂神奈子 <br> <br>
-
+> Yasaka Kanako - 八坂神奈子 <br>
+<br>
 共计: 31 个 | 占用空间: ? MB 
