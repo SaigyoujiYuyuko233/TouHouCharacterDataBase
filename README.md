@@ -5,8 +5,18 @@ TouHouCharacterDataBase - All the character of TouHou Project and their infomati
 这个项目涵盖了东方全人物的信息 图片 主题曲！ <br>
 本项目完全公益！项目开坑时间: 2019年1月4日
 
+## 目录详解
+> 人物名称/ <br>
+>> picture/ 图片 <br>
+>> music/ 人物主题曲 <br>
+>> document/ 文献&文档 <br>
+>>>> fanSet.txt 二次设定 <br>
+>>>> info.txt 信息[人物名称|种族|etc.] <br>
+>>>> Introduction.txt 人物介绍 <br>
+>>>> power.txt 能力
+
 ## 项目已有人物
-> SaigyoujiYuyuko - 西行寺幽幽子 <br>
+> SaigyoujiYuyuko - 西行寺幽幽子 [√] <br>
 > Konpaku Youki - 魂魄 妖忌 <br>
 > Konpaku Youmu - 魂魄妖梦 <br>
 > Alice Margatroid - 爱丽丝·玛格特洛依德 <br>
