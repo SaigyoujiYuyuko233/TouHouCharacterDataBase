@@ -12,7 +12,7 @@ TouHouCharacterDataBase - All the character of TouHou Project and their infomati
 > Alice Margatroid - 爱丽丝·玛格特洛依德 <br>
 > Cirno - ⑨ <br>
 > Flandre Scarlet - 芙兰朵露·斯卡蕾特 <br>
-> Hakurei Reimu - 博麗 靈夢 <br>
+> Hakurei Reimu - 博麗 靈夢 [√] <br>
 > Hinanawi Tenshi - 比那名居天子 <br>
 > Hoan Meirin - 紅 美鈴 <br>
 > Houraisan Kaguya - 蓬莱山辉夜 <br>
@@ -21,7 +21,7 @@ TouHouCharacterDataBase - All the character of TouHou Project and their infomati
 > Izayoi Sakuya - 十六夜 咲夜 <br>
 > Kamishirasawa Keine - 上白泽慧音 <br>
 > Kazami Yuka - 风见幽香 <br>
-> Kirisame Marisa - 霧雨 魔理沙 <br>
+> Kirisame Marisa - 霧雨 魔理沙 [√] <br>
 > Kochiya Sanae - 东风谷早苗 <br>
 > Komeiji Koishi - 古明地恋 <br>
 > Komeiji Satori - 古明地觉 <br>
