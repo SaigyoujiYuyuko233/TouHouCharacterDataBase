@@ -2,7 +2,8 @@
 TouHouCharacterDataBase - All the character of TouHou Project and their infomation!
 
 ## 项目简介
-这个项目涵盖了东方全人物的信息 图片 主题曲！ 
+这个项目涵盖了东方全人物的信息 图片 主题曲！ <br>
+本项目完全公益！项目开坑时间: 2019年1月4日
 
 ## 项目已有人物
 > SaigyoujiYuyuko - 西行寺幽幽子 <br>
@@ -38,3 +39,19 @@ TouHouCharacterDataBase - All the character of TouHou Project and their infomati
 > Yasaka Kanako - 八坂神奈子 <br>
 <br>
 共计: 31 个 | 占用空间: ? MB 
+
+## 项目贡献者
+> 白玉魂の西行寺幽幽子(3558168775 | HGK-SaigyoujiYuyuko@outlook.com) [主要负责]<br>
+<br>
+共计: 1 个
+<br>
+## 关于项目资源来源
+文献&资料: THBwiki(https://thwiki.cc/) | 萌娘百科(https://zh.moegirl.org/)  <br>
+图片: 360图片(http://image.so.com/) | P站(https://www.pixiv.net/) <br>
+音乐: 网易云音乐(https://music.163.com/) <br>
+
+如有侵权 请联系主要负责人删除 谢谢!
+
+## 结尾语
+本人入东方有 2 年了(也不算久的) 就想给东方做点贡献 (原本想做wiki的 被别人很完美的打消了这个念头) <br>
+(不知道怎么写了  我语文不好)
