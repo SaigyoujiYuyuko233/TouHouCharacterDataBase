@@ -17,8 +17,8 @@ TouHouCharacterDataBase - All the character of TouHou Project and their infomati
 
 ## 项目已有人物
 > SaigyoujiYuyuko - 西行寺幽幽子 [√] <br>
-> Konpaku Youki - 魂魄 妖忌 <br>
-> Konpaku Youmu - 魂魄妖梦 <br>
+> Konpaku Youki - 魂魄 妖忌 [√] <br>
+> Konpaku Youmu - 魂魄妖梦 [√] <br>
 > Alice Margatroid - 爱丽丝·玛格特洛依德 <br>
 > Cirno - ⑨ <br>
 > Flandre Scarlet - 芙兰朵露·斯卡蕾特 <br>
@@ -57,7 +57,7 @@ TouHouCharacterDataBase - All the character of TouHou Project and their infomati
 
 ## 关于项目资源来源
 文献&资料: THBwiki(https://thwiki.cc/) | 萌娘百科(https://zh.moegirl.org/)  <br>
-图片: 360图片(http://image.so.com/) | P站(https://www.pixiv.net/) <br>
+图片: 360图片(http://image.so.com/) | P站(https://www.pixiv.net/) | THBwiki(https://thwiki.cc/) <br>
 音乐: 网易云音乐(https://music.163.com/) <br>
 
 如有侵权 请联系主要负责人删除 谢谢!
