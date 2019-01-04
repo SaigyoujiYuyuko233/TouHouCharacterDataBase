@@ -44,7 +44,7 @@ TouHouCharacterDataBase - All the character of TouHou Project and their infomati
 > 白玉魂の西行寺幽幽子(3558168775 | HGK-SaigyoujiYuyuko@outlook.com) [主要负责]<br>
 <br>
 共计: 1 个
-<br>
+
 ## 关于项目资源来源
 文献&资料: THBwiki(https://thwiki.cc/) | 萌娘百科(https://zh.moegirl.org/)  <br>
 图片: 360图片(http://image.so.com/) | P站(https://www.pixiv.net/) <br>
